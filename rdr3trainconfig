@@ -1,0 +1,347 @@
+ 
+=TRAIN====================================
+index   hash    wagons
+1   -1464742217 6
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   703203753   northpassenger01x
+3   703203753   northpassenger01x
+4   1786827347  privatebaggage01x
+5   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+2   -577630801  5
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   703203753   northpassenger01x
+3   1297830025  privateboxcar02x
+4   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+3   -1901305252 5
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   253923078   privateflatcar01x
+3   253923078   privateflatcar01x
+4   253923078   privateflatcar01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+4   -1719006020 13
+=WAGONS===================================
+index   hash    modelname
+0   89913743    privateSteamer01x
+1   1192745176  privateCoalCar01x
+2   479008570   privatepassenger01x
+3   479008570   privatepassenger01x
+4   479008570   privatepassenger01x
+5   479008570   privatepassenger01x
+6   253923078   privateflatcar01x
+7   253923078   privateflatcar01x
+8   479008570   privatepassenger01x
+9   253923078   privateflatcar01x
+10  253923078   privateflatcar01x
+11  1786827347  privatebaggage01x
+12  -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+5   519580241   15
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   -321394418  midlandrefrigeratorCar
+3   405368030   privateboxcar04x
+4   405368030   privateboxcar04x
+5   253923078   privateflatcar01x
+6   962088794   midlandboxcar05x
+7   253923078   privateflatcar01x
+8   962088794   midlandboxcar05x
+9   962088794   midlandboxcar05x
+10  253923078   privateflatcar01x
+11  405368030   privateboxcar04x
+12  253923078   privateflatcar01x
+13  962088794   midlandboxcar05x
+14  962088794   midlandboxcar05x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+6   1495948496  6
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   -1828437268 northpassenger03x
+3   703203753   northpassenger01x
+4   253923078   privateflatcar01x
+5   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+7   1365127661  7
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   253923078   privateflatcar01x
+3   -1828437268 northpassenger03x
+4   -1828437268 northpassenger03x
+5   253923078   privateflatcar01x
+6   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+8   -1083616881 1
+=WAGONS===================================
+index   hash    modelname
+0   -636146522  trolley01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+9   1030903581  10
+=WAGONS===================================
+index   hash    modelname
+0   89913743    privateSteamer01x
+1   1192745176  privateCoalCar01x
+2   405368030   privateboxcar04x
+3   253923078   privateflatcar01x
+4   -988822064  privateboxcar01x
+5   -988822064  privateboxcar01x
+6   479008570   privatepassenger01x
+7   479008570   privatepassenger01x
+8   572854005   privateDining01x
+9   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+10  -2006657222 9
+=WAGONS===================================
+index   hash    modelname
+0   89913743    privateSteamer01x
+1   1192745176  privateCoalCar01x
+2   1786827347  privatebaggage01x
+3   703203753   northpassenger01x
+4   703203753   northpassenger01x
+5   -988822064  privateboxcar01x
+6   -988822064  privateboxcar01x
+7   -988822064  privateboxcar01x
+8   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+11  1285344034  9
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   1786827347  privatebaggage01x
+3   1786827347  privatebaggage01x
+4   -1828437268 northpassenger03x
+5   -1828437268 northpassenger03x
+6   -1828437268 northpassenger03x
+7   1786827347  privatebaggage01x
+8   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+12  -156591884  9
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   1786827347  privatebaggage01x
+3   1786827347  privatebaggage01x
+4   -1828437268 northpassenger03x
+5   -1828437268 northpassenger03x
+6   -988822064  privateboxcar01x
+7   -988822064  privateboxcar01x
+8   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+13  987516329   9
+=WAGONS===================================
+index   hash    modelname
+0   89913743    privateSteamer01x
+1   1192745176  privateCoalCar01x
+2   1786827347  privatebaggage01x
+3   1786827347  privatebaggage01x
+4   479008570   privatepassenger01x
+5   479008570   privatepassenger01x
+6   -1032231746 privateopensleeper01x
+7   -1032231746 privateopensleeper01x
+8   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+14  -1740474560 5
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   -1828437268 northpassenger03x
+3   1786827347  privatebaggage01x
+4   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+15  -651487570  7
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   253923078   privateflatcar01x
+3   -1828437268 northpassenger03x
+4   -1828437268 northpassenger03x
+5   253923078   privateflatcar01x
+6   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+16  -593637311  4
+=WAGONS===================================
+index   hash    modelname
+0   89913743    privateSteamer01x
+1   1192745176  privateCoalCar01x
+2   572854005   privateDining01x
+3   944661538   privateArmoured
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+17  1094934838  10
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   1786827347  privatebaggage01x
+3   -1828437268 northpassenger03x
+4   -1828437268 northpassenger03x
+5   1297830025  privateboxcar02x
+6   405368030   privateboxcar04x
+7   1297830025  privateboxcar02x
+8   405368030   privateboxcar04x
+9   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+18  1054492269  1
+=WAGONS===================================
+index   hash    modelname
+0   1493442814  handcart
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+19  1216031719  9
+=WAGONS===================================
+index   hash    modelname
+0   1871675108  winterSteamer
+1   265500599   wintercoalcar
+2   253923078   privateflatcar01x
+3   -988822064  privateboxcar01x
+4   405368030   privateboxcar04x
+5   405368030   privateboxcar04x
+6   253923078   privateflatcar01x
+7   -234987592  privateObservationcar
+8   944661538   privateArmoured
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+20  1824681511  10
+=WAGONS===================================
+index   hash    modelname
+0   89913743    privateSteamer01x
+1   1192745176  privateCoalCar01x
+2   962088794   midlandboxcar05x
+3   962088794   midlandboxcar05x
+4   405368030   privateboxcar04x
+5   253923078   privateflatcar01x
+6   253923078   privateflatcar01x
+7   405368030   privateboxcar04x
+8   405368030   privateboxcar04x
+9   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+21  -904280534  12
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   1786827347  privatebaggage01x
+3   1786827347  privatebaggage01x
+4   703203753   northpassenger01x
+5   703203753   northpassenger01x
+6   -1828437268 northpassenger03x
+7   -1828437268 northpassenger03x
+8   405368030   privateboxcar04x
+9   405368030   privateboxcar04x
+10  405368030   privateboxcar04x
+11  -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+22  -1360990987 1
+=WAGONS===================================
+index   hash    modelname
+0   -636146522  trolley01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+23  6161325 8
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   703203753   northpassenger01x
+3   703203753   northpassenger01x
+4   -1828437268 northpassenger03x
+5   253923078   privateflatcar01x
+6   1786827347  privatebaggage01x
+7   -1946016570 caboose01x
+=END======================================
+ 
+=TRAIN====================================
+index   hash    wagons
+24  -1458552414 8
+=WAGONS===================================
+index   hash    modelname
+0   -164452766  northSteamer01x
+1   -544816550  NorthCoalCar01x
+2   703203753   northpassenger01x
+3   703203753   northpassenger01x
+4   -1828437268 northpassenger03x
+5   253923078   privateflatcar01x
+6   1786827347  privatebaggage01x
+7   -1946016570 caboose01x
+=END======================================
